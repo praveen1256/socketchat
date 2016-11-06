@@ -12,6 +12,8 @@ public class AppSettings {
 
     public static final String PREFERENCE_NAME = "socket_chat";
     public static final String TEST = "test";
+
+    //Login UserName KEY
     public static final String USERNAME = "username";
 
     private static SharedPreferences getPrefs() {
